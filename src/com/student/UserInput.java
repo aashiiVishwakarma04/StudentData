@@ -37,6 +37,9 @@ public class UserInput {
        System.out.println("Please Enter Your Number");
         String number =  sc.nextLine();
         
+        System.out.println("Please Enter Your Cast");
+        String cast = sc.nextLine();
+        
         System.out.println("Please Enter Your Address");
         String address = sc.nextLine();
         
