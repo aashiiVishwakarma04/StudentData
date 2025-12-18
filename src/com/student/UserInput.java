@@ -40,6 +40,9 @@ public class UserInput {
         System.out.println("Please Enter Your Cast");
         String cast = sc.nextLine();
         
+        System.out.println("Please Enter Your Domicile State");
+        String state = sc.nextLine();
+        
         System.out.println("Please Enter Your Address");
         String address = sc.nextLine();
         
@@ -54,6 +57,18 @@ public class UserInput {
         
         System.out.println("Please Enter Your Branch");
         String branch = sc.nextLine();
+        
+        System.out.println("Please Enter Your Technicaal Skills");
+        String skills = sc.nextLine();
+        
+        System.out.println("Please Enter Your Hobbies");
+        String hobby = sc.nextLine();
+        
+        System.out.println("PLease Enter Your Specialization");
+        String specialization = sc.nextLine();
+        
+        System.out.println("Please Enter Your Certifications");
+        String certifications = sc.nextLine();
         
  
 	}
